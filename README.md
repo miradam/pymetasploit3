@@ -220,3 +220,7 @@ Many other usage examples can be found in the `example_usage.py` file.
 
 I highly encourage contributors to send in any and all pull requests or issues. Thank you to allfro for writing
 the original pymetasploit library.
+
+# References
+
+https://www.coalfire.com/The-Coalfire-Blog/May-2019/pymetasploit3-Metasploit-Automation-Library
